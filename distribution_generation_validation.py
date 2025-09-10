@@ -1,9 +1,3 @@
-#!/usr/bin/env python
-# coding: utf-8
-
-# In[ ]:
-
-
 """
 This script generates samples from various probability distributions (Gaussian, Chi-Squared, 
 F, and Student's t) and validates them against their theoretical definitions using 
