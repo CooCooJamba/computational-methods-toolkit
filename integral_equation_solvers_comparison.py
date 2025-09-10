@@ -1,9 +1,3 @@
-#!/usr/bin/env python
-# coding: utf-8
-
-# In[ ]:
-
-
 """
 This script solves a 2D Fredholm integral equation of the second kind using three different iterative methods:
 1. Gradient Descent
