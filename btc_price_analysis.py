@@ -1,9 +1,3 @@
-#!/usr/bin/env python
-# coding: utf-8
-
-# In[ ]:
-
-
 """
 BTC Price Analysis with Moving Averages and Autocorrelation
 
