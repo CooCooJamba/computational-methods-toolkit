@@ -1,9 +1,3 @@
-#!/usr/bin/env python
-# coding: utf-8
-
-# In[ ]:
-
-
 """
 Movie Recommendation System
 This script implements a hybrid movie recommendation system using collaborative filtering
